@@ -20,7 +20,7 @@ use Illuminate\Routing\Controller as BaseController;
  *  ),
  *  @OA\Server(
  *      description="localhost",
- *      url="http://127.0.0.1:7001/"
+ *      url="http://172.16.10.117:7001/"
  *  ),
  */
 class Controller extends BaseController
